@@ -1,5 +1,5 @@
 body {
-	background-color: #36454f;
+	background-color: white;
 }
 th {
 	font-size: 20px;
@@ -18,7 +18,7 @@ label {
 	font-size: 16px;
 }
 .jumbotron, #submitButton {
-	background-color: #d9ebdd;
+	background-color: white;
 }
 button {
 	font-size: 20px !important;
